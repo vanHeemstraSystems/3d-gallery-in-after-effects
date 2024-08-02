@@ -7,6 +7,12 @@ Based on "Element 3D: What it is and how to use it" at https://www.creativebloq.
 
 Based on "Element 3D v2.2" at https://www.videocopilot.net/products/element2/
 
+Based on "How to Make Complete Movie Scene in Element 3d I Part 3" at https://www.youtube.com/watch?v=6B4rYNC3YOo
+
+Based on "How to Make Complete Movie Scene in Element 3d I Part 2" at https://www.youtube.com/watch?v=0Dv1auw2HsE
+
+Based on "How to Make Complete Movie Scene in Element 3d I Part 3" at https://www.youtube.com/watch?v=GtR8qiAKf0w
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
