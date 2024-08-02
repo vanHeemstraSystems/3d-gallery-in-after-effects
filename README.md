@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+3d-gallery-in-after-effects
+# 3D Gallery in After Effects
 
-Based on "ABC" at https://www.abc.com/
+Based on "3D Gallery In After Effects Element 3D Tutorial" at https://www.youtube.com/watch?app=desktop&v=fLs1Avw4NFU
 
 ## 100 - Introduction
 
